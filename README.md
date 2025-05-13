@@ -19,7 +19,7 @@ Apaixonado por criar experiências interativas e intuitivas para o usuário, sou
 
 Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
 
-Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite aliar programação e criatividade de uma forma única e cativante.
+Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite aliar programação e criatividade de uma forma única e cativante.!
 
 ---
 
